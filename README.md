@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 💻 I'm currently working as a <b>Software Engineer</b> at 🐯 <a href="http://www.tigerit.com/">TigerIT Bangladesh Limited</a>
-- 🔭 I’m currently working on a <b>MERN</b> stack without <b>MongoDB</b> 😁 and writing Windows Services in <b>C#</b> with both <b>MSSQL</b> and <b>Oracle</b> databases.
-- 🌱 I’m currently learning <b>Flutter</b>
-- 💬 Ask me about <b>ASP.Net, Windows Service, ![Node.js](https://github.com/or-nob/or-nob/blob/master/icons8-nodejs-48.png) Node.js, React, MVC, RDBMS.</b> 
+- 🔭 I’m currently working on a <code>MERN</code> stack without <code>MongoDB</code> 😁 and writing Windows Services in <code>C#</b> with both <code>MSSQL</code> and <code>Oracle</code> databases. 🤹‍
+- 🌱 I’m currently learning <code>Flutter</code>
+- 💬 Ask me about <code>ASP.Net</code>, <code>Windows Service</code>, <code>Node.js</code>, <code>React</code>, <code>MVC</code>, <code>RDBMS</code> 
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/atiq-ishraq-arnob/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/or-nob)
