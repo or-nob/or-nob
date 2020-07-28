@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 💻 I'm currently working as a <b>Software Engineer</b> at 🐯 <a href="http://www.tigerit.com/">TigerIT Bangladesh Limited</a>
-- 🔭 I’m currently working on a <code>MERN</code> stack without <code>MongoDB</code> 😁 and writing Windows Services in <code>C#</code> with both <code>MSSQL</code> and <code>Oracle</code> databases. 🤹‍
+- 🔭 I’m currently working on a <code>MERN</code> stack without <code>MongoDB</code> 😁 and writing Windows Services in <code>C#</code> for both <code>MSSQL</code> and <code>Oracle</code> databases. 🤹‍
 - 🌱 I’m currently learning <code>Flutter</code>
 - 💬 Ask me about <code>ASP.Net</code>, <code>Windows Service</code>, <code>Node.js</code>, <code>React</code>, <code>MVC</code>, <code>RDBMS</code> 
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/atiq-ishraq-arnob/)
