@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on a <b>MERN</b> stack without <b>MongoDB</b> 😁 and writing Windows Services in <b>C#</b> with both <b>MSSQL</b> and <b>Oracle</b> databases.
 - 🌱 I’m currently learning <b>Flutter</b>
 - 💬 Ask me about <b>ASP.Net, Windows Service, Node.js, React, MVC, RDBMS.</b> 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/atiq-ishraq-arnob/">Atiq Ishraq Arnob</a>
+- 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) <a href="https://www.linkedin.com/in/atiq-ishraq-arnob/">Atiq Ishraq Arnob</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I 💕 Jorge Luis Borges
 
