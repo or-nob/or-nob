@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 💻 I'm currently working as a Software Engineer at 🐯 <a href="http://www.tigerit.com/">TigerIT Bangladesh Limited</a>
+- 🔭 I’m currently working on MERN stack without <b>MongoDB</b> 😁, 
+- 🌱 I’m currently learning Flutter
 - 💬 Ask me about ASP.Net, Windows Service, Node.js, React, MVC, RDBMS. 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/atiq-ishraq-arnob/">Atiq Ishraq Arnob</a>
 - 😄 Pronouns: he/him
