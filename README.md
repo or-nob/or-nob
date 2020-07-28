@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I 💕 Jorge Luis Borges
 
 <!--
 **or-nob/or-nob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
