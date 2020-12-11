@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 💻 I'm currently working as a <b>Software Engineer</b> at <a href="http://www.tigerit.com/">TigerIT Bangladesh Limited</a>
 - 🔭 I’m currently working on system daemons for <code>Linux</code> in <code>C++</code>
-- 💬 Ask me about <code>Linux Daemons</code>, <code>Windows Service</code>, <code>Express.js</code>, <code>SOAP</code>, <code>Node.js</code>, <code>React</code>, <code>MVC</code>, <code>RDBMS</code>
+- 💬 Ask me about <code>Linux Daemons</code>, <code>Windows Service</code>, <code>SOAP</code>, <code>Node.js</code>, <code>Express.js</code>, <code>React</code>, <code>MVC</code>, <code>RDBMS</code>
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/atiq-ishraq-arnob/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/or-nob)
